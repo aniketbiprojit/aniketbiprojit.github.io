@@ -1,8 +1,3 @@
-<!--
-  Title: Aniket Biprojit Chowdhury
-  Description: I am creative artist who specializes in the field of computer coding. Know more about me.
-  Author: aniketbiprojit
-  -->
 ### Hi there, I'm Aniket👋
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
