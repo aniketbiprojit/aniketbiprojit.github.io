@@ -53,5 +53,7 @@
 
 
 <h1>Links</h1>
-- https://git.aniketbiprojit.me/Conway-s-Game-of-Life/
-- https://git.aniketbiprojit.me/Minesweeper/
+
+-   https://git.aniketbiprojit.me/Conway-s-Game-of-Life/
+
+-   https://git.aniketbiprojit.me/Minesweeper/
