@@ -51,3 +51,7 @@
 [linkedin]: https://linkedin.com/in/aniket-chowdhury
 [whatsapp]: https://wa.me/9660629107
 
+
+<h1>Links</h1>
+- https://git.aniketbiprojit.me/Conway-s-Game-of-Life/
+- https://git.aniketbiprojit.me/Minesweeper/
