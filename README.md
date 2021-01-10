@@ -57,3 +57,5 @@
 -   <a href="https://git.aniketbiprojit.me/Conway-s-Game-of-Life">Conway's Game of Life</a>
 
 -   <a href="https://git.aniketbiprojit.me/Minesweeper">Minesweeper</a>
+
+-   <a href="https://git.aniketbiprojit.me/Snake-Game/">Snake Game</a>
