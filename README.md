@@ -3,6 +3,21 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love music
+
+<h1>Works/Articles</h1>
+
+-   <a href="https://git.aniketbiprojit.me/Conway-s-Game-of-Life">Conway's Game of Life</a>
+
+-   <a href="https://git.aniketbiprojit.me/Minesweeper">Minesweeper</a>
+
+-   <a href="https://git.aniketbiprojit.me/Snake-Game/">Snake Game</a>
+
+-   <a href="https://aniketbiprojit.medium.com/write-faster-code-with-c-expression-templates-for-optimized-compile-time-evaluation-aff817de04ee">Write faster code with C++ Expression Templates for optimized compile-time evaluation</a>
+
+-   <a href="https://aniketbiprojit.medium.com/practical-federated-learning-76dd2034b1b0">Practical Federated Learning with TensorFlow and TensorFlowJS— Part 1</a>
+
+
+
 ### Connect with me:
 [<img align="left" alt="aniketbiprojit.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
 [![Website](https://img.shields.io/website?label=aniketbiprojit.me&style=for-the-badge&url=https%3A%2F%2Faniketbiprojit.me)](https://aniketbiprojit.me)
@@ -51,11 +66,3 @@
 [linkedin]: https://linkedin.com/in/aniket-chowdhury
 [whatsapp]: https://wa.me/9660629107
 
-
-<h1>Links</h1>
-
--   <a href="https://git.aniketbiprojit.me/Conway-s-Game-of-Life">Conway's Game of Life</a>
-
--   <a href="https://git.aniketbiprojit.me/Minesweeper">Minesweeper</a>
-
--   <a href="https://git.aniketbiprojit.me/Snake-Game/">Snake Game</a>
