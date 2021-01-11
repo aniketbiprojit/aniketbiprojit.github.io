@@ -265,6 +265,36 @@
 		></script>
 		<script>
 			anchors.add()
+			// console.log(.length)
 		</script>
 	</body>
+	<script>
+		window.dataLayer = window.dataLayer || []
+		function gtag() {
+			dataLayer.push(arguments)
+		}
+		gtag('js', new Date())
+
+		gtag('config', 'G-4T13NT4BT6')
+
+		console.log()
+		Array.from(document.getElementsByTagName('a')).forEach((elem) => {
+			elem.onclick = async (e) => {
+				gtag('event', 'redirect', {
+					link: elem.href,
+				})
+				e.preventDefault()
+				await new Promise((resolve) =>
+					setTimeout(() => {
+						resolve()
+					}, 125)
+				)
+				const a = document.createElement('a')
+				a.href = elem.href
+
+				a.setAttribute('rel', 'noreferrer')
+				a.click()
+			}
+		})
+	</script>
 </html>
